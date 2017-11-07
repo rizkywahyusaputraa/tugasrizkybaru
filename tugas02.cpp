@@ -11,4 +11,6 @@ cout <<"B : Segitiga"<<endl;
 cout << " =>>Luas Yang Akan Dihitung A atau B : "; cin>>pilih;
 if (pilih=='A'){
 			system("cls");
+			cout<<"  ||--Anda Memilih Mengitung Luas Persegi Pajang--||"<<endl;
+			cout<<""<<endl;
 }
