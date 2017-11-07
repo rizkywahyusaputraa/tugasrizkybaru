@@ -14,4 +14,6 @@ int main()
        cout << "  Anda Mengalami : Underweight(kekurangan berat badan)" << endl;
         else if (tb/2.3 < bb)
                  cout << "  Anda Mengalami : Overweight(kelebihan berat badan)" << endl;
+                   else if (tb/2.5 <= bb <= tb/2.3)
+           		 cout << "  congratulation!!! : Normal" << endl;
 }
