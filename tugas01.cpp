@@ -11,5 +11,6 @@ cout<<" Input Bilangan x : "; cin>>x;
 
 if (x>y){
 	selisih=x-y;
+	cout<<"Selisih Nilai X dan Y yaitu "<<selisih;
 }
 
