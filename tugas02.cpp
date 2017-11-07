@@ -25,5 +25,7 @@ else if (pilih=='B'){
 		cout<<"  ||--Anda Memilih Mengitung Luas Segitiga--||"<<endl;
 			cout<<""<<endl;	
 			cout<<"Input Alas Segitiga = "; cin>>al;
+			cout<<"Input Tinggi Segitiga = "; cin>>t;
+			L=0.5*al*l;
 			
 		}
