@@ -13,4 +13,7 @@ if (pilih=='A'){
 			system("cls");
 			cout<<"  ||--Anda Memilih Mengitung Luas Persegi Pajang--||"<<endl;
 			cout<<""<<endl;
+			cout<<"Input Panjang Persegi Panjang = "; cin>>p;
+			cout<<"Input Lebar Persegi Panjang = "; cin>>l;
+			L=p*l;
 }
