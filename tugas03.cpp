@@ -10,4 +10,7 @@ float jk, le, gtot, gp, gb,ul, jam,pa;
 	
 	if (jk>40){
 	system("cls");
+	cout<<"   PROGRAM GAJI BBERSIH KARYAWAN"<<endl;
+	cout<<"     KARYAWAN MENDAPAT LEMBUR"<<endl;
+	cout<<""<<endl;
 }
