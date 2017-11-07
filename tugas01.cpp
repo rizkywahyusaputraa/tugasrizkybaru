@@ -16,6 +16,6 @@ if (x>y){
 else if (y>x){
 	selisih=y-x;
 
-
+cout<<"Selisih Nilai Y dan X yaitu "<<selisih;
 }
 
