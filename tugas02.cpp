@@ -17,4 +17,11 @@ if (pilih=='A'){
 			cout<<"Input Lebar Persegi Panjang = "; cin>>l;
 			L=p*l;
 			cout << " Jadi Luas Persegi Panjangnya Adalah   "<<L;
+			
 }
+
+else if (pilih=='B'){
+			system("cls");
+			
+			
+		}
