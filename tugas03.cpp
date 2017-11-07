@@ -7,4 +7,7 @@ float jk, le, gtot, gp, gb,ul, jam,pa;
 	cout<<""<<endl;
 	cout<<"Lama Kerja Karyawan    : "; cin>> jk;
 	cout<<"Gaji Perjam Karyawan   : "; cin>>gp;	
+	
+	if (jk>40){
+	system("cls");
 }
