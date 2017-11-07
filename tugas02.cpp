@@ -27,5 +27,6 @@ else if (pilih=='B'){
 			cout<<"Input Alas Segitiga = "; cin>>al;
 			cout<<"Input Tinggi Segitiga = "; cin>>t;
 			L=0.5*al*l;
+			cout << " Jadi Luas segitiganya Adalah   "<<L;
 			
 		}
