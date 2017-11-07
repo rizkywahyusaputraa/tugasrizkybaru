@@ -13,4 +13,8 @@ float jk, le, gtot, gp, gb,ul, jam,pa;
 	cout<<"   PROGRAM GAJI BBERSIH KARYAWAN"<<endl;
 	cout<<"     KARYAWAN MENDAPAT LEMBUR"<<endl;
 	cout<<""<<endl;
+	le=jk-40;
+	jam=le*1.5;
+	ul=gp*jam;
+	pa=ul*0.15;
 }
