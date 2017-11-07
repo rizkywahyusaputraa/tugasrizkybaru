@@ -16,4 +16,5 @@ if (pilih=='A'){
 			cout<<"Input Panjang Persegi Panjang = "; cin>>p;
 			cout<<"Input Lebar Persegi Panjang = "; cin>>l;
 			L=p*l;
+			cout << " Jadi Luas Persegi Panjangnya Adalah   "<<L;
 }
