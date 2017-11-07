@@ -17,4 +17,8 @@ float jk, le, gtot, gp, gb,ul, jam,pa;
 	jam=le*1.5;
 	ul=gp*jam;
 	pa=ul*0.15;
+	    gtot=gp-pa;
+	gb=gtot-(jk*40)+((gp-40)*jk*1.5);
+     	cout<<"Lama Kerja Karyawan Dalam Seminggu          : "<<jk<<" Jam"<<endl;
+		cout<<"Total Lembur Karyawan                       : "<<le<<" (dalam seminggu)"<<endl;
 }
