@@ -9,4 +9,6 @@ char pilih,A ,B ;
 cout <<"A : Persegi Panjang"<<endl;
 cout <<"B : Segitiga"<<endl;
 cout << " =>>Luas Yang Akan Dihitung A atau B : "; cin>>pilih;
+if (pilih=='A'){
+			system("cls");
 }
