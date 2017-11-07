@@ -43,4 +43,5 @@ else {
 		cout<<"Upah Lembur Yang Diterima Karyawan          : Rp  "<<ul<<endl;
 		cout<<"Pajak Yang Ditanggung Karyawan              : Rp  "<<pa<<endl;
 		cout<<"Total Gaji Bersih Yang Diterima Karyawan    : Rp  "<<gb<<endl;
+		}
 	}
