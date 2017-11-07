@@ -10,4 +10,10 @@ int main(){
 	if (x < 0)
 	{
 		cout<<"yang anda input adalah bilangan negatif"<<endl;
+		
 }
+else if (x>0)
+{
+   cout<<"yang anda input adalah bilangan positif"<<endl;
+}
+
