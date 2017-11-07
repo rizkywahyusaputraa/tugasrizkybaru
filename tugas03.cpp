@@ -34,4 +34,7 @@ else {
 		cout<<"   PROGRAM GAJI BBERSIH KARYAWAN"<<endl;
 		cout<<"   KARYAWAN TIDAK MENDAPAT LEMBUR"<<endl;
 		cout<<""<<endl;
+		gtot=gp*40;
+		pa=gtot*0.15;
+		gb=gtot-pa;
 	}
