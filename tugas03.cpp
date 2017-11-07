@@ -31,4 +31,7 @@ float jk, le, gtot, gp, gb,ul, jam,pa;
 else {
 		system,("cls");
 		cout<<""<<endl;
+		cout<<"   PROGRAM GAJI BBERSIH KARYAWAN"<<endl;
+		cout<<"   KARYAWAN TIDAK MENDAPAT LEMBUR"<<endl;
+		cout<<""<<endl;
 	}
