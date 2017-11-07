@@ -18,4 +18,5 @@ else if (y>x){
 
 cout<<"Selisih Nilai Y dan X yaitu "<<selisih;
 }
-
+return 0;
+}
