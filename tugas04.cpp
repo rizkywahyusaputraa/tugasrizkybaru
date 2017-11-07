@@ -7,5 +7,6 @@ int main(){
 	cout<<""<<endl;
 	cout<<"Input Bilangan : ";cin>>x;
 	cout<<""<<endl;
-	
+	if (x < 0)
+	{
 }
