@@ -12,4 +12,6 @@ int main()
     cin >> bb;
     if (bb<tb/2.5)
        cout << "  Anda Mengalami : Underweight(kekurangan berat badan)" << endl;
+        else if (tb/2.3 < bb)
+                 cout << "  Anda Mengalami : Overweight(kelebihan berat badan)" << endl;
 }
