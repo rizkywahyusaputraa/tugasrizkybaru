@@ -13,4 +13,9 @@ if (x>y){
 	selisih=x-y;
 	cout<<"Selisih Nilai X dan Y yaitu "<<selisih;
 }
+else if (y>x){
+	selisih=y-x;
+
+
+}
 
