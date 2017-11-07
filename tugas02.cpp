@@ -22,6 +22,7 @@ if (pilih=='A'){
 
 else if (pilih=='B'){
 			system("cls");
-			
+		cout<<"  ||--Anda Memilih Mengitung Luas Segitiga--||"<<endl;
+			cout<<""<<endl;	
 			
 		}
